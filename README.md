@@ -1,11 +1,9 @@
-# Express API Starter Project
+# Samlas Backend
 
-This project includes the packages and babel setup for an express server, and is just meant to make things a little simpler to get up and running with.
+This is the backend for Samlas, the Technigo final project for Fiona and Bridget.
 
-## Getting started
+## Links
 
-Install dependencies with `npm install`, then start the server by running `npm run dev`
-
-## View it live
-
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+1. Deployed Backend: https://samla-backend.onrender.com
+1. Frontend Repo: https://github.com/FionaKlacar/Final-project
+1. Deployed Frontend: https://samlas.netlify.app/
